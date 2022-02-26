@@ -1,1 +1,1 @@
-  -Aplicativo de sorteio simples.
+    - Aplicativo de sorteio simples.
